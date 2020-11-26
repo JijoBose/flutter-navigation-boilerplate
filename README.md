@@ -1,4 +1,4 @@
-# flutter_navigation_example
+# flutter_navigation_boilerplate
 
 A new Flutter project.
 
